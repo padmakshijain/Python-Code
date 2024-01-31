@@ -1,0 +1,3 @@
+#  At a certain school, student email addresses end with @student.college.edu, while professor email addresses end with @prof.college.edu. Write a program that first asks the
+# user how many email addresses they will be entering, and then has the user enter those addresses. After all the email addresses are entered, the program should print out a message
+# indicating either that all the addresses are student addresses or that there were some professor addresses entered.
